@@ -2,11 +2,11 @@ Final AI/ML Capstone Project-Zepto Data & AI Platform
 
 Student Name:Seemakurthi Alekhya
 
-Course:IIT Patna-Certificate Program in Artificial Intyelligence and Machine Learning.
+Course:IIT Patna-Certificate Program in Artificial Intelligence and MachineLearning.
 
 Project Overview
 -------------------------------------------
-This project demonstrates an end-to-end Artificial Intelligence and MachineLearning workflow through three connected modules.The repository contains a complete data engineering pipeline, an analytics and machine learning pipeline, and a Retrieval-Augumented Generation(RAG)support assistant.
+This project demonstrates an end-to-end Artificial Intelligence and MachineLearning workflow through three connected modules.The repository contains a complete data engineering pipeline, an analytics and machinelearning pipeline, and a Retrieval-Augmented Generation(RAG)support assistant.
 
 
 Repository Structure
@@ -50,28 +50,28 @@ Perform Exploratory Data Analysis and build MachineLearning Models using the Tit
 Dataset
 Loaded using:
 
-sns.load_dataset("titanic)
+sns.load_dataset("titanic")
 
 Saved as
 titanic.csv
 
 Exploratory Data Analysis
 
-.Dataset profilling.
+.Dataset profiling.
 Missing value analysis.
 .Missing value handling.
 .Histogram and Box Plot for Age and Fare.
 .IQR-based outlier detection.
 .Correlation heatmap.
 .Survival analysis by gender and passenger class.
-.Four multivariate visualizations with interpretationa.
+.Four multivariate visualizations with interpretation.
 .Feature engineering using family_size and is_alone.
 
-Machine Learning Pipeline
+MachineLearning Pipeline
 
 .Stratified Train-Test Split.
 .ColumnTransformer preprocessing.
-.StandardScale.
+.StandardScaler.
 .OneHotEncoder
 .Logistic Regression.
 .Decision Tree.
@@ -100,7 +100,7 @@ Module 3 - Zepto Support Assistant
 
 Objective
 
-Build a Retrieval-Augumented Generation(RAG) assistant using Zepto policy documents.
+Build a Retrieval-Augmented Generation(RAG) assistant using Zepto policy documents.
 
 Technologies Used
 
@@ -195,7 +195,7 @@ Module 3
 
 ##Project Structure
 -'data_pipeline'-Data scraping,cleaning,SQLite database, and SQL queries.
--'analytics'-Titanic dataset analysis, visualization, and machine learning.
+-'analytics'-Titanic dataset analysis, visualization, and machinelearning.
 -'support_assistant'-RAG-based Zepto policy support assistant using ChromaDB, LangGraph, and FastAPI.
 
 -------------------------------------------
