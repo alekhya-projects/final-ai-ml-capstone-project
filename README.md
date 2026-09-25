@@ -192,6 +192,20 @@ Module 3
 .Used MOCK_LLM for offline deterministic responses.
 
 -------------------------------------------
+
+##Project Structure
+-'data_pipeline'-Data scraping,cleaning,SQLite database, and SQL queries.
+-'analytics'-Titanic dataset analysis, visualization, and machine learning.
+-'support_assistant'-RAG-based Zepto policy support assistant using ChromaDB, LangGraph, and FastAPI.
+
+-------------------------------------------
+
+##Installation
+
+Install the project dependencies using:
+'''bash
+pip install -r requirements.txt
+
 Author
 
 Seemakurthi Alekhya
