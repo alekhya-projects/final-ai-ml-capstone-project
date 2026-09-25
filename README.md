@@ -200,6 +200,12 @@ Module 3
 
 -------------------------------------------
 
+##Installation
+
+Install the project dependencies using:
+'''bash
+pip install -r requirements.txt
+
 Author
 
 Seemakurthi Alekhya
